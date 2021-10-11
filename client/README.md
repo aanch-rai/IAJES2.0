@@ -1,8 +1,9 @@
-# IAJES-2.0
-IAJES new version on ReactJS created by Shruti Jagadeesh Bhat
-
 Steps:
 ----
 
 1. Download the repo to a local folder "IAJES-2.0"
-2. Open terminal in that folder, "IAJES-2.0" and do npm install
+2. Go to the 'server' folder in the terminal and type : 
+    - node index.js
+3. Go to the 'client' folder in the terminal and type :
+    - npm install
+    - npm start
